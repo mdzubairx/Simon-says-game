@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+    background-color: bisque;
+}
+
+h1{
+    color: rgb(255, 0, 0);
+    font-weight: 500;
+     font-family: 'Protest Guerrilla', sans-serif;
+     font-size: xxx-large;
+}
+
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(206, 44, 44);
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+    /* background-color: lightgrey; */
+}
+
+.btn{
+    height: 150px;
+    width: 150px;
+    border: 10px solid black;
+    border-radius: 50px;
+    margin: 1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+}
+
+.red{
+    background-color: lightcoral;
+}
+
+.green{
+    background-color: rgb(99, 202, 61);
+}
+.blue{
+    background-color: aqua;
+}
+.yellow{
+    background-color: yellow;
+}
+
+.flash{
+    background-color: white;
+}
